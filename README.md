@@ -1,6 +1,6 @@
 <div align="center"><img width="50%" height="auto" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/256/000000/external-developer-coding-kiranshastry-lineal-color-kiranshastry.png"/></div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abul Bashar Atiqur</h1>
-<h3 align="center">I'm a passionate Full Stack Web  Developer from Bangladesh.</h3>
+<h3 align="center">I'm a passionate MERN Stack Web  Developer from Bangladesh.</h3>
 <br />
 
 ## 🙋‍♂️ About Me
