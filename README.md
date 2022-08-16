@@ -8,7 +8,7 @@
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning react.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [Facebook](https://abulbasharatiq.vercel.app/)
+- 📫 How to reach me [Portfolio](https://abulbasharatiq.vercel.app/)
 
 <!---
 ab-atiq/ab-atiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
